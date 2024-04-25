@@ -33,7 +33,7 @@ class Controller():
         self.screen = pygame.display.set_mode([WIDTH, HEIGHT])
         pygame.display.set_caption('Weather Forecast')
 
-        pygame.mixer.music.load("weather.mp3")
+        pygame.mixer.music.load(r"C:\Users\keive\github-classroom\bucsspring2024\final-project-team-1\assets\weather.mp3")
         pygame.mixer.music.play(-1)  # -1 makes the music play indefinitely
 
         self.main_menu = True  # Start with the main menu
