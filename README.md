@@ -19,11 +19,11 @@ The project will be a weather GUI that allows users to search up different city'
 
 ### Initial Design
 
-![initial gui](assets/final.gui.png)
+(C:\Users\keive\github-classroom\bucsspring2024\final-project-team-1\assets\inital.gui.png)
 
 ### Final Design
 
-![final gui](assets/inital.gui.png)
+(C:\Users\keive\github-classroom\bucsspring2024\final-project-team-1\assets\final.gui.png)
 
 ## Program Design
 
@@ -37,7 +37,12 @@ The project will be a weather GUI that allows users to search up different city'
 
 ### Classes
 
-- << You should have a list of each of your classes with a description >>
+- Button class 
+Create clickable buttons and handles the rendering of the button and text on the screen
+- Controller Class
+Acts as the central control, in charge of managing different screens such as the search and setting and main menu, handles the API and manages the music
+- Main functions
+The mainloop that allows the game to run 
 
 ## ATP
 
